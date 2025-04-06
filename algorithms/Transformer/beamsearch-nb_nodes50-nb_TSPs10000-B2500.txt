@@ -1,0 +1,2 @@
+
+nb_nodes: 50, nb_TSPs: 10000, B: 2500, L_greedy: 0.000000, L_concorde: 5.68974, L_beamsearch: 5.68951, gap_greedy(%): 0.00000, gap_beamsearch(%): -0.00431, scores_greedy: 0.00000, scores_beamsearch: -0.34803, tot_time: 92.9637min, tot_time: 1.549hr, mean_time: 0.558sec
